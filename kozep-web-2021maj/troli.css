@@ -56,4 +56,13 @@ p{
   padding: 10px;
   border-radius: 10px; 
   }
+h2{
+  font-size: large;
+}
+#def{
+  text-align: justify;
+}
+#felgomb:hover{
+  background-color: #555;
 
+}
